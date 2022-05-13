@@ -1,0 +1,8 @@
+{
+    "answers": [
+        { "intent": "bestellen", "answer": "Sie wollen eine Bestellung aufgeben. Was möchten Sie bestellen?" },
+        { "intent": "aufgeben", "answer": "Sie wollen eine Bestellung aufgeben. Was möchten sie bestellen" },
+        { "intent": "cola", "answer": "ich habe eine Cola notiert. Sie kostet 1 Euro, noch was?" },
+        { "intent": "gericht", "answer": "Ich hbae gericht notiert, noch was?" }
+    ]
+}
